@@ -120,6 +120,6 @@ sudo systemctl enable zabbix-server zabbix-agent apache2
 | Project 2 — DNS & DHCP Server on Linux | [dns-dhcp-linux-lab](https://github.com/Daksh2601/dns-dhcp-linux-lab) |
 | Project 3 — Active Directory Home Lab | [active-directory-lab](https://github.com/Daksh2601/active-directory-lab) |
 | Project 4 — Site-to-Site VPN | [site-to-site-vpn-lab](https://github.com/Daksh2601/site-to-site-vpn-lab) |
-| Project 5 — Network Monitoring with Zabbix (this repo) | — |
+| Project 5 — Network Monitoring with Zabbix (this repo) | [network-monitoring-zabbix-lab](https://github.com/Daksh2601/Network-Monitoring-Lab---Zabbix-7.0)|
 
 *Daksh Patel · CCNA Certified · [LinkedIn](https://www.linkedin.com/in/pateldaksh)*
