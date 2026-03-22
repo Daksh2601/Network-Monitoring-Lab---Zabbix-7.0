@@ -6,6 +6,8 @@
 
 📄 **[View Full Lab Documentation (PDF)](./Zabbix_Monitoring_Lab_Documentation.pdf)**
 
+![Network Monitoring Lab Topology](./topology.png)
+
 ---
 
 ## Objective
